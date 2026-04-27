@@ -48,3 +48,4 @@ After saving the README, run these commands:
 ```bash
 git add README.md
 git commit -m "docs: add README with setup instructions"
+"Task 1 completed - Git & Environment Setup" 
